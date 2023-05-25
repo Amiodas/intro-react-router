@@ -1,0 +1,10 @@
+.member-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}
+.member-item {
+    background-color: rgb(7, 5, 27);
+    color: beige;
+    padding: 15px;
+}
